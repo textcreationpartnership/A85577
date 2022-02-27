@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and glorious victory obtained by the Lord Inchequin, Lord President of Munster, over the Irish rebels, not far from the castle of Conmell, Septemb. the 6th. where were slain upon the place, foure collonels, foure lieutenant collonels, five majors, two thousand three hundred officers, gentlemen, and other souldiers. The Earle of Glamorgan taken and wounded. Twenty colours taken. Seven hundred prisoners. Ten carriages. A thousand muskets. Three thousand pistols and other armes. Foure hundred head of cattell. Two thousand sheep. One thousand serviceable horse. Five thousand horse and foot totally routed. Owen Oneale totally routed and fled. With a list of the names and particulars on both sides.</title>
+            <author>Tirrell, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85577</idno>
+            <idno type="STC">Wing G1653</idno>
+            <idno type="STC">Thomason E407_5</idno>
+            <idno type="STC">ESTC R13641</idno>
+            <idno type="EEBO-CITATION">99859513</idno>
+            <idno type="PROQUEST">99859513</idno>
+            <idno type="VID">111599</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111599)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and glorious victory obtained by the Lord Inchequin, Lord President of Munster, over the Irish rebels, not far from the castle of Conmell, Septemb. the 6th. where were slain upon the place, foure collonels, foure lieutenant collonels, five majors, two thousand three hundred officers, gentlemen, and other souldiers. The Earle of Glamorgan taken and wounded. Twenty colours taken. Seven hundred prisoners. Ten carriages. A thousand muskets. Three thousand pistols and other armes. Foure hundred head of cattell. Two thousand sheep. One thousand serviceable horse. Five thousand horse and foot totally routed. Owen Oneale totally routed and fled. With a list of the names and particulars on both sides.</title>
+                  <author>Tirrell, Henry.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for V.V.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter, dated and signed on page 5: Sept. 7. Henry Tirell.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111599:1" rendition="simple:additions"/>
+            <p>A great and glorious VICTORY Obtained by the Lord <hi>Inchequin,</hi> Lord Preſident of <hi>Munſter,</hi> over the Iriſh Rebels, not far from the Caſtle of <hi>Conmell, Septemb.</hi> the 6<hi rend="sup">th</hi>. where were ſlain upon the place,
+<list>
+                  <item>Foure Collonels,</item>
+                  <item>Foure Lieutenant Collonels,</item>
+                  <item>Five Majors,</item>
+                  <item>Two thouſand three hundred Officers, Gentlemen, and o<g ref="char:EOLhyphen"/>ther Souldiers.</item>
+                  <item>The Earle of <hi>Glamorgan</hi> ta<g ref="char:EOLhyphen"/>ken and wounded.</item>
+                  <item>Twenty Colours taken.</item>
+                  <item>Seven hundred Priſoners.</item>
+                  <item>Ten Carriages.</item>
+                  <item>A thouſand Muskets.</item>
+                  <item>Three thouſand Piſtols and other Armes.</item>
+                  <item>Foure hundred head of Cat<g ref="char:EOLhyphen"/>tell.</item>
+                  <item>Two thouſand Sheep.</item>
+                  <item>One thouſand ſerviceable horſe.</item>
+                  <item>Five thouſand horſe and foot totally routed.</item>
+                  <item>
+                     <hi>Owen Oneale</hi> totally routed and fled.</item>
+               </list>
+            </p>
+            <p>With a Liſt of the names and particulars on both ſides.</p>
+            <p>
+               <add>7<hi rend="sup">ber.</hi> 14<hi rend="sup">th.</hi>
+               </add>
+            </p>
+            <p>Printed for <hi>V. V.</hi> in the year, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111599:2"/>
+            <pb n="1" facs="tcp:111599:2"/>
+            <head>A great and glorious VICTORY Obtained in <hi>IRELAND.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Received your Letter dated <hi>September</hi> the third, concern<g ref="char:EOLhyphen"/>ing the proceedings of the Parliament and Sir <hi>Thomas Fair<g ref="char:EOLunhyphen"/>fax's</hi> Army, in which (I moſt humbly thank your Lord<g ref="char:EOLhyphen"/>ſhip) I received abundant ſatisfaction; I ſhall not fail, in ſome manner of requitall, to give your Honour a particular ac<g ref="char:EOLhyphen"/>count of the Affairs of this Kingdome, and more eſpecially of the great and moſt remarkable Victory, which it pleaſed God to give my Lord <hi>Inchequin,</hi> and the forces under his command, begun at <hi>Conmell</hi> Caſtle on the Lords day at night on <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> the fift, and perfected on the day following, <hi>September</hi> the ſixt, where all the Cavalry of the Rebels under the Lord <hi>Muſ<g ref="char:EOLhyphen"/>kry,</hi> and the Earle of <hi>Glamorgan</hi> were deeply routed, and a<g ref="char:EOLhyphen"/>bove 2000 foot ſlain under the command of that Arch-rebell <hi>Owen-Roe-Oneal.</hi>
+            </p>
+            <p>And ſurely, though the mercies of Almighty are ſpread o<g ref="char:EOLhyphen"/>ver all his works, yet they are no where more viſibly to be ſeen, nor more legibly to be read then in his moſt gracious delive<g ref="char:EOLhyphen"/>rance of this Kingdome of <hi>Ireland,</hi> from the hands of the moſt barbarous and inſulting Rebels, at what time with a wicked confidence, they threatned to root both us and our Religion out of the Kingdom, and with open-mouth were ready to devoure
+<pb n="2" facs="tcp:111599:3"/> us, but bleſſed be the Name of the Lord of Hoſts who will not be ſeen on their ſide, who boaſt of the numbers of their Cha<g ref="char:EOLhyphen"/>riots and Horſes, and put their truſt in the arme of fleſh, but is pleaſed to give the Victory, who, though weak in outward ſtrength do make him their ſhield and their buckler, who fight<g ref="char:EOLhyphen"/>ing for the truth of the Goſpel, and for the cauſe of Chriſt in the purity of Religion, hee is always found to be miraculouſly neer unto them in the day of their viſitation.</p>
+            <p>On Wedneſday, <hi>September</hi> the firſt, my Lord Preſident ha<g ref="char:EOLhyphen"/>ving quieted his Army, and removed a great part of their diſ<g ref="char:EOLhyphen"/>content, by aſſuring them that there was a conſiderable ſum of money comming from <hi>England</hi> to their reliefe, hee drew them into the field, and ſo much of the Artillery with him, for which he could provide himſelf with carriages, which was one De<g ref="char:EOLhyphen"/>miculverin, and three field peeces, with theſe hee marched the firſt night to <hi>Ballekerry,</hi> and next morning having ſecured the the paſſe of <hi>Addor,</hi> he marched to <hi>Limbry,</hi> and quartered that night at a little Village called <hi>Nully,</hi> where our forces that were ſent to gather cattle, and drive them toward the campe, came very late, but with a conſiderable booty of about 2000 Cows and Sheep: The next day wee ſate downe before the Caſtle of <hi>Conmell,</hi> having not the ſight of any Enemy in all our march.</p>
+            <p>My Lord Preſident had no ſooner placed his poſts, and made his approches unto the Caſtle, but he ſent his Trumpet to ſum<g ref="char:EOLhyphen"/>mon it, but the Rogues (though they had quarter offered for life, and their wearing apparell) obſtinately denyed to yield, and returned anſwer by his Lordſhips Trumpet, that rather then they would ſurrender the Caſtle, they would bury themſelves in the ruines of it, whereupon my Lord Preſident commanded the Pioners to open the ground, and draw a line about the Caſtle, who immediatly undertook the work, and that with ſuch dili<g ref="char:EOLhyphen"/>gence and celerity, that by Saturday on three of the clock in the afternoon, the Line was almoſt perfected: On the Lords Day ſome works were made whereon wee began to plant our Ord<g ref="char:EOLhyphen"/>nance to make our batteries. In the mean time the Enemy ſhot very violently from the Caſtle, their great Guns and their Muſ<g ref="char:EOLhyphen"/>kets
+<pb n="3" facs="tcp:111599:3"/> without intermiſſion, playing perpetually on us by day and night: but with little or no execution, onely a common ſouldier ſhot in the ſhoulder, and Captain <hi>Dothick</hi> lightly razed with a Muſquet Bullet on his thigh: About five of the clock in the Evening, our Scouts brought word that they had diſcovered a Body of the Enemyes horſe, conſiſting of about 400 on the other ſide of the Hill Weſtward by the River: Immediately Major <hi>Trenchard</hi> was commanded with 200 Horſe to march up the Hill, and Lievtenant Colonell <hi>Knight</hi> to follow him with 400 foot; Major <hi>Trenchard</hi> had order to obſerve the motion of the Enemy, and if he could find any advantage to fight with them, and upon all occaſions to returne advertiſements to my Lord Preſident.</p>
+            <p>The enemy perceiving a conſiderable party advanced on the hill, durſt not adventure the encounter; but retreated back into the woods, which did not a little befreind them, for though a forlorne was ſent out after them, by reaſon of the thickneſſe and un-frequentedneſſe of the woods, they could not take any one priſoner, whereby to learn certainly the number or deſigne of the enemy, inſomuch that night comming on, our men were enforced to retreat to the main body of our Army before <hi>Con<g ref="char:EOLhyphen"/>mell</hi> Caſtle, without being able for the preſent to put any thing in execution.</p>
+            <p>That night a very ſtrong guard and Sentinell was appoin<g ref="char:EOLhyphen"/>ted, and about one of the clock in the morning, the enemy in a full body iſſued out of the woods, and in great ſilence advanced up the hill, the moon at that time ſhone very bright, and caſting a great ſhade down the hil, the body of the enemy ſeemed to be far more and greater then indeed they were. However, it could nothing diſcourage the gallant reſolution of Major <hi>Sefford,</hi> who having received orders to that purpoſe, was not onely in a preparation to ſuſtain them, but on his advance to meet them halfe the way, which be performed with ſuch dexterity and ſucceſſe, that though the Rebels horſe came pouring down up<g ref="char:EOLhyphen"/>on him, and gave an Alarme to all the Campe, yet he ſtopped at the firſt, the courſe of their career, being aſſiſted for that ſer<g ref="char:EOLhyphen"/>vice
+<pb n="4" facs="tcp:111599:4"/> with about 300 foot, and the Dragoons of Captain <hi>Trum<g ref="char:EOLhyphen"/>ball,</hi> and forced the enemy to retreat from whence they came, and not long after he did heat them from the advantage of the hill, and forced them to fly amayn into the woods, from which they firſt did iſſue, but not thinking it expedient to follow them further into the woods, for feare of Ambuſcadoes, he returned to the top of the hill, where he continued till the morning.</p>
+            <p>The day appearing, they found among the ſlain divers Re<g ref="char:EOLhyphen"/>negadoes, belonging heretofore to Sir <hi>John Barlaſe</hi> his Regi<g ref="char:EOLhyphen"/>ment of horſe, and the Lord <hi>Muskryes</hi> Cornet, and many others of eminent note and quality. But my Lord Preſident not wil<g ref="char:EOLhyphen"/>ling to loſe any oportunity to proſecute the victory, gave order to enter the woods, and that in as quick a poſture, and cloſe a body as poſſibly they could, which immediately was put in exe<g ref="char:EOLhyphen"/>cution, and the enemy forced by degrees from one hil of defence, and from one wood unto another. As they were upon the aſ<g ref="char:EOLhyphen"/>ſent of the ſecond hill, the enemy gave fire almoſt from behinde every tree, and maintained the narrow paſſe with great reſolu<g ref="char:EOLhyphen"/>tion, but ſuch was the courage and expertneſſe of our Souldiers, that by fireforce they did beat them from it, and having got the top of the ſecond hill they found the whole Army of <hi>Owen Ro-neale</hi> in a plain on the bottome of the hill, who at the firſt ſight of our men gave a lowd ſhout, that the woods and hils did eccho with the ſound thereof.</p>
+            <p>On this my Lord <hi>Inchequin,</hi> who knew how to carry him<g ref="char:EOLhyphen"/>ſelfe in all neceſſities, diſſembling the danger, did immediately cauſe the greateſt part of his Army to be drawn off from <hi>Con<g ref="char:EOLhyphen"/>mell,</hi> leaving only a party to ſave the works. And a Councell of Warre being called, it was ſuddainly reſolved, that it was the beſt and moſt honourable courſe to fight with the enemy, which immediately was put in execution, and his Lordſhip ordering the battail in his own perſon, he commanded Major <hi>Purdon</hi> to the right wing; with about 500 horſe, Major <hi>Jefford</hi> and Major <hi>Trenchard</hi> had the ordering of the left wing, His Lordſhip brought up the maine body himſelfe.</p>
+            <p>The Enemy ſtood faſt on the foot of the Hill, &amp; covered their
+<pb n="5" facs="tcp:111599:4"/> Infantry with their horſe, that their numbers might be leſſe diſ<g ref="char:EOLhyphen"/>covered, but perceiving our Army to march down the Hill with a reſolution to fight with them, their Body of horſe did cleave a ſunder, being at the leaſt 2000 in number to ſerve as wings on each ſide of their foot, who being now open and within Musket of our Forces gave upon them very gallantly, who were not ſlow in anſwering them. The Lord <hi>Inchequin</hi> ſhewed excel<g ref="char:EOLhyphen"/>lent demonſtrations of his valour, and by his example encou<g ref="char:EOLhyphen"/>raged all the Army to acts of Chivalry and Honour: The place where they fought was large and very plain, and the Armies ſo neer, that in a manner, both horſe and foot charged all at once: Major <hi>Jefford</hi> at the firſt impreſſion charged clean through the left wing of the Enemyes horſe, and fell upon a Reſerve of their, wherein was the Earle of <hi>Glamorgan,</hi> who held him to it very handſomly, inſomuch, that hee began to wheel about, but the Lord Preſident having found their mayn Body, and broke through it like a thunderbolt, this Reſerve of Horſe fol<g ref="char:EOLhyphen"/>lowed the example of the foot, and fled alſo with what ſpeed they could: In the mean time Major <hi>Jefford,</hi> and M. <hi>Trenchard</hi> gave a deep Rout to the Lord <hi>Muskryes</hi> Horſe, on the right wing, and purſued them with great execution, although they were extreamly harraſſed with the ſervice of all the morning and the night before.</p>
+            <p>There were ſl<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n in this Battail and in the purſuit above 2300, not any of the Engliſh had quarter for life, but only the Earle of <hi>Glamorgan,</hi> who by marriage is allied to my Lord Preſident whoſe ſecond wife is daughter to <hi>Henry O Bryan</hi> late Earl of <hi>Thomond,</hi> There were 700 Iriſh taken priſoners. I have here ſent unto your Lordſhip a liſt of who were ſlain, and what was taken at the Battail, which I beſeech your Lordſhip to accept from him who is,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <dateline>
+                  <date>Sept. 7.</date>
+               </dateline>
+               <signed>Your Lordſhips moſt humble ſervant, <hi>Henry Tirrell.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <pb n="6" facs="tcp:111599:5"/>
+               <list>
+                  <item>Colonel <hi>Cowran.</hi>
+                  </item>
+                  <item>Colonel <hi>O Rork.</hi>
+                  </item>
+                  <item>Colonel <hi>Rowland.</hi>
+                  </item>
+                  <item>Colonel <hi>Butler.</hi>
+                  </item>
+                  <item>Lievtenant Col. <hi>Talbot.</hi>
+                  </item>
+                  <item>Lievtenant Col. <hi>Jones.</hi>
+                  </item>
+                  <item>Lievtenant Col. <hi>Farely.</hi>
+                  </item>
+                  <item>Liev. C. <hi>Fitz-Simmonds</hi>
+                  </item>
+                  <item>Five Majors.
+<list>
+                        <item>Two thouſand three hundred Officers and Souldiers.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Owen Neal</hi> totally row<g ref="char:EOLhyphen"/>ted and fled.</item>
+                  <item>The Earle of <hi>Glamorgan</hi> taken and wounded.</item>
+                  <item>Twenty Colours taken.</item>
+                  <item>One thouſand Muskets.</item>
+                  <item>Ten Carriages.</item>
+                  <item>Thirty Field-officers.</item>
+                  <item>Seven hundred priſoners amongſt which two hundred Officers and Gentlemen.</item>
+                  <item>Three hundred Piſtols and other Arms.</item>
+                  <item>Four hundred head of cattle.</item>
+                  <item>Two thouſand Sheep.</item>
+                  <item>Five thouſand horſe and foot toally routed.</item>
+                  <item>One thouſand ſervicea<g ref="char:EOLhyphen"/>ble Horſe.</item>
+                  <item>Four load of powder and Match.</item>
+               </list>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
